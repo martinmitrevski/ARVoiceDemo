@@ -1,0 +1,56 @@
+{
+	"animals" : [
+		{
+			"animalType" : "pony",
+			"animations" : [
+				{
+					"animationType" : "jump",
+					"startTime" : 31,
+					"duration" : 2
+				},
+                {
+                    "animationType" : "sit",
+                    "startTime" : 13,
+                    "duration" : 3
+                },
+                {
+                    "animationType" : "crazy",
+                    "startTime" : 21,
+                    "duration" : 2.5
+                },
+                {
+                    "animationType" : "yes",
+                    "startTime" : 37.2,
+                    "duration" : 2.3
+                }
+                
+			]
+		},
+        {
+            "animalType" : "dog",
+            "animations" : [
+                {
+                    "animationType" : "jump",
+                    "startTime" : 31,
+                    "duration" : 2
+                },
+                {
+                    "animationType" : "sit",
+                    "startTime" : 13,
+                    "duration" : 3
+                },
+                {
+                    "animationType" : "crazy",
+                    "startTime" : 21,
+                    "duration" : 2.5
+                },
+                {
+                    "animationType" : "yes",
+                    "startTime" : 37.2,
+                    "duration" : 2.3
+                }
+                
+            ]
+        }
+	]
+}
